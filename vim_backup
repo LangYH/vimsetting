@@ -1,0 +1,10 @@
+set hlsearch
+set backspace=2
+set autoindent
+set ruler
+set showmode
+set nu
+set bg=dark
+syntax on
+filetype plugin on
+let g:pydiction_location='~/.vim/after/ftplugin/pydiction/complete-dict'
